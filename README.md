@@ -17,5 +17,5 @@ Olá eu sou um texto destacado
 ```
 
 ```
-Olá eu sou outro texto destacado
+Olá eu sou mais um texto destacado
 ```
